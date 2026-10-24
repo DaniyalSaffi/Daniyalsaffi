@@ -8,6 +8,8 @@
   <a href="mailto:daniyals0316@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-C9A227?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">Open source contributor: Chatwoot · ERPNext · Listmonk · Twenty</p>
+
 ## About
 
 <p align="justify">Business development professional with a Computer Science degree and a year spent building a U.S. outbound pipeline from scratch for a software services firm, where I closed multiple high-value technology contracts across mobile development, AI, and custom enterprise software.</p>
