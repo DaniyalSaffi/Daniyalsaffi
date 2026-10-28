@@ -25,3 +25,11 @@ tracks where I am active and what state each piece of work is in.
 - My GitHub streak is kept with real work only, never filler commits.
 
 Projects I follow and contribute to: Chatwoot, ERPNext, Listmonk, Twenty.
+
+## Late October 2026 updates
+
+- **Chatwoot** — issues #16382 (onboarding form accessible names) and #16383 (sidebar and mobile menu accessible names): approach shared 24 Oct, waiting on maintainers.
+- **Chatwoot** — PR #16373 (Draft): false-value spec case added 26 Oct; a commenter confirmed on 28 Oct that both 0 and false are covered. Still Draft, awaiting maintainer review.
+- **ERPNext** — issue #61801 closed 24 Oct via the maintainer's own PR; my fork fix was not merged.
+- **Listmonk** — issue #3314 claimed 27 Oct; closed the same day by the maintainer's own commit. Not my merged work.
+- **Listmonk** — issue #3320 claimed 28 Oct; the maintainer deleted the claim comment and self-assigned the issue, so I am no longer pursuing it.
