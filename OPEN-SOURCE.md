@@ -35,3 +35,5 @@ Projects I follow and contribute to: Chatwoot, ERPNext, Listmonk, Twenty.
 - **Listmonk** — issue #3320 claimed 28 Oct; the maintainer deleted the claim comment and self-assigned the issue, so I am no longer pursuing it.
 - **Listmonk** — issue #3325 (inline images pasted into the editor never embed): picked 29 Oct, fix point verified in ApplyInlineImages; claim comment could not be posted yet — GitHub is currently refusing to save comments, retry pending.
 - **Listmonk** — issue #3325 update 30 Oct: claim comment retry also blocked by the same GitHub save error; the block is still in place, retry pending.
+
+- **Listmonk** — issue #3325 update 1 Nov: claim retry still blocked by the same GitHub save error; kabeer7121's analysis comment was also deleted from the issue, which now shows 0 comments. Retry pending.
