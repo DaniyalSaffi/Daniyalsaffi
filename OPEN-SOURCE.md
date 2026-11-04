@@ -37,3 +37,4 @@ Projects I follow and contribute to: Chatwoot, ERPNext, Listmonk, Twenty.
 - **Listmonk** — issue #3325 update 30 Oct: claim comment retry also blocked by the same GitHub save error; the block is still in place, retry pending.
 
 - **Listmonk** — issue #3325 update 1 Nov: claim retry still blocked by the same GitHub save error; kabeer7121's analysis comment was also deleted from the issue, which now shows 0 comments. Retry pending.
+- **Listmonk** — issue #3325 update 4 Nov: claim retry still blocked by the same GitHub save error on listmonk; ERPNext comments post cleanly, so the block looks listmonk-specific. Retry pending.
